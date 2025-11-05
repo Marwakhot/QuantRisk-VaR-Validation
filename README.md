@@ -39,11 +39,14 @@ var-project/
 ├── 03_backtesting_validation.ipynb  # Step 3: Model validation
 │
 ├── data/                            # Generated data files
-│   ├── cleaned_returns.csv
-│   ├── cleaned_prices.csv
-│   ├── var_results.csv
+│   ├── backtest_results.csv
+|   ├── cleaned_prices.csv
+|   ├── cleaned_returns.csv
+│   ├── final_summary.text
+│   ├── monte_carlo_simulations.csv
+|   ├── normality_tests.csv 
 │   ├── portfolio_returns.csv
-│   └── backtest_results.csv
+│   └── var_results.csv
 │
 ├── outputs/                         # Visualization outputs
 │   ├── 01_price_history.png
@@ -172,10 +175,3 @@ Run notebooks in sequence:
 ## 📄 License
 
 This project is for educational purposes. Data sourced from Yahoo Finance via yfinance library.
-
----
-
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
