@@ -1,0 +1,2 @@
+Portfolio_Value,Confidence_Level,Historical_VaR_Return,Historical_VaR_Dollar,Parametric_VaR_Return,Parametric_VaR_Dollar,Monte_Carlo_VaR_Return,Monte_Carlo_VaR_Dollar,Portfolio_Mean,Portfolio_Std
+1000000,0.99,-0.021543699521553928,21543.69952155393,-0.020673750156036806,20673.750156036807,-0.020684423528192945,20684.423528192943,0.001137108797134029,0.009375579291709978
