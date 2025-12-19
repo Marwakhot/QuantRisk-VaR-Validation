@@ -3,7 +3,7 @@ A comprehensive quantitative framework leveraging Value-at-Risk (VaR) for **proa
 
 ---
 
-## 📊 Project Overview: Strategic Financial Analysis
+## Project Overview: Strategic Financial Analysis
 
 This project transitions a purely risk measurement tool (**VaR**) into a **strategic financial planning instrument**. By rigorously quantifying downside risk, it provides the foundation for setting optimal risk limits, determining necessary capital reserves (capital adequacy), and making data-driven investment decisions.
 
@@ -15,7 +15,7 @@ This project transitions a purely risk measurement tool (**VaR**) into a **strat
 
 ---
 
-## 🎯 Core Business Problem & Solution
+## Core Business Problem & Solution
 
 **Financial Challenge**: How much capital is truly at risk, and how much reserve capital is required to ensure solvency and stability while maximizing investment efficiency?
 
@@ -23,7 +23,7 @@ This project transitions a purely risk measurement tool (**VaR**) into a **strat
 
 ---
 
-## 📈 Methodology: Data-Driven Financial Modeling
+## Methodology: Data-Driven Financial Modeling
 
 The project employs a structured, three-step quantitative methodology.
 
@@ -44,7 +44,7 @@ Three distinct models were implemented to ensure estimate robustness and consens
 
 ---
 
-## 📊 Key Results & Financial Recommendation
+## Key Results & Financial Recommendation
 
 | Metric | Detail |
 | :--- | :--- |
@@ -65,7 +65,7 @@ Three distinct models were implemented to ensure estimate robustness and consens
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python 3.x**
 * **Data Processing**: Pandas, NumPy
@@ -73,7 +73,7 @@ Three distinct models were implemented to ensure estimate robustness and consens
 * **Financial Data**: yfinance
 * **Environment**: Jupyter Notebook
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 portfolio-analytics/
@@ -93,7 +93,7 @@ portfolio-analytics/
     ├── 03_var_comparison_all_methods.png
     └── 04_backtesting_results.png
 ```
-## 🚀 Running the Analysis
+## Running the Analysis
 
 ### Requirements
 ```bash
